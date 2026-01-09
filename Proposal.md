@@ -1,8 +1,8 @@
 📄 AMPRNet Project Proposal
 1. Applicant Information
-Callsign: (Your callsign)
-Name: (Optional)
-Location: (City, Country)
+Callsign: VU33JD
+Name: Jay Gurubalan
+Location: Pondicherry, India
 2. Project Title
 Experimental APRS and Ham Data Transport over Radio-Based IP Links
 3. Abstract
